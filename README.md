@@ -1,12 +1,10 @@
 
 # CognoRise-Infotech - <ins>Web Development Intern</ins>
 
-Welcome to my internship project repository! Here, you'll find the codebases for three dynamic websites: **Portfolio**, **Travel Book Website**, and **Currency Converter**. Let's dive into each project:
+Welcome to my internship project repository! Here, you'll find the codebases for three dynamic websites: **Basic Calculator**, **Travel Book Website**, and **Currency Converter**. Let's dive into each project:
 
-## 1. Portfolio Website
-- **Description:** A showcase of my skills and projects, developed using HTML, CSS, and JavaScript.
-- **Features:** Responsive design, project showcase, and a contact form.
-- **How to View:** Open `index.html` in your preferred browser.
+## 1. Basic Calculator
+| 01  | [Basic Calculator](https://github.com/he-is-talha/html-css-javascript-calculators/tree/main/01-Basic-calculator)       | [Live Demo](https://he-is-talha.github.io/html-css-javascript-calculator/01-Basic-calculator/) |
 
 ## 2. Travel Book Website
 - **Description:** A travel booking website focused on promoting Indian tourism.

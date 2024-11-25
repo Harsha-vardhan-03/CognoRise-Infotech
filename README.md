@@ -4,7 +4,7 @@
 Welcome to my internship project repository! Here, you'll find the codebases for three dynamic websites: **Basic Calculator**, **Travel Book Website**, and **Currency Converter**. Let's dive into each project:
 
 ## 1. Basic Calculator
-| 01  | [Basic Calculator](https://github.com/he-is-talha/html-css-javascript-calculators/tree/main/01-Basic-calculator)       | [Live Demo](https://he-is-talha.github.io/html-css-javascript-calculator/01-Basic-calculator/) |
+| 01  | [Live Demo](https://he-is-talha.github.io/html-css-javascript-calculator/01-Basic-calculator/) |
 
 ## 2. Travel Book Website
 - **Description:** A travel booking website focused on promoting Indian tourism.

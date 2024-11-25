@@ -8,7 +8,7 @@ Welcome to my internship project repository! Here, you'll find the codebases for
 - **Features:** Responsive design, project showcase, and a contact form.
 - **How to View:** Open `index.html` in your preferred browser.
 
-## 2. TravelKaro
+## 2. Travel Book Website
 - **Description:** A travel booking website focused on promoting Indian tourism.
 - **Features:** Seamless booking, responsive design, and a user-friendly interface.
 - **Technologies:** HTML, CSS, JavaScript.

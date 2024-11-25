@@ -4,7 +4,11 @@
 Welcome to my internship project repository! Here, you'll find the codebases for three dynamic websites: **Calculator**, **Travel Book Website**, and **Currency Converter**. Let's dive into each project:
 
 ## 1. Calculator
-| 01  | [Calculator](https://github.com/Harsha-vardhan-03/CognoRise-Infotech/tree/main/Calculator)       | [Live Demo](https://Harsha-vardhan-03/CognoRise-Infotech/Calculator/) |
+- **Description:** A Basic Calculator.
+- **Features:** perform various calculations using operators.
+- **Technologies:** HTML, CSS, JavaScript.
+- **How to View:** Open `index.html` in your preferred browser.
+
 ## 2. Travel Book Website
 - **Description:** A travel booking website focused on promoting Indian tourism.
 - **Features:** Seamless booking, responsive design, and a user-friendly interface.
